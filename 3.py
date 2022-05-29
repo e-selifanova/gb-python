@@ -62,4 +62,3 @@ print(cell * cell1)
 print(cell / cell1)
 
 print(Cell.make_order(cell + cell1, 5))
-
